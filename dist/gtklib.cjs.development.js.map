@@ -1,0 +1,1 @@
+{"version":3,"file":"gtklib.cjs.development.js","sources":["../src/index.tsx"],"sourcesContent":["import * as React from 'react';\n\n// Delete me\nexport const Thing = () => {\n  return <div>the snozzberries taste like snozzberries</div>;\n};\n"],"names":["Thing","React"],"mappings":";;;;;;AAEA;IACaA,KAAK,GAAG,SAARA,KAAKA;EAChB,OAAOC,4EAAmD;AAC5D;;;;"}
